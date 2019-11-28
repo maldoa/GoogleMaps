@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoogleMapsApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_Muralla">Muralla China</string>
+    <string name="button_TorrePisa">Torre de Pisa</string>
+    <string name="button_BigBen">Big Ben</string>
+    <string name="button_PiramideGiza">Piramide de Giza</string>
+    <string name="button_Torreeiffel">Torre Eiffel</string>
+    <string name="button_Teotihuacan">Teotihuacan</string>
+    <string name="button_Niagara">Cataratas del Niagara</string>
+    <string name="button_Canon">Gran Cañon</string>
+</resources>
